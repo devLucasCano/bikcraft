@@ -1,6 +1,6 @@
 # Potfólio - aprimorando o CSS.
 
-<img src="img/site.png" alt="Lucas"> <br>
+<img src="img/bik1.png" alt="Lucas"> <br>
 
 <hr>
 
