@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar o site pelo link abaixo:
 
-- [Portfolio](https://lucas-bikcraft.netlify.app/) - O site está hospedado gratuitamente na Netlify
+- [Bikcraft](https://lucas-bikcraft.netlify.app/) - O site está hospedado gratuitamente na Netlify
 
 # 💼 Direitos
 
