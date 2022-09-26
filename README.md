@@ -1,4 +1,4 @@
-# Potfólio - aprimorando o CSS.
+# Bikcraft - Front End.
 
 <img src="img/bik1.png" alt="Lucas"> <br>
 
