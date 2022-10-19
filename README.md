@@ -1,4 +1,4 @@
-# Bikcraft - Front End.
+# Bikcraft - Front End
 
 <img src="img/bik1.png" alt="Lucas"> <br>
 
